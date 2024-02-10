@@ -1,0 +1,3 @@
+
+Dec 18, 2023 18:54:36.12 NEW SESSION
+Dec 18, 2023 18:54:36.12 [7708:13380:1218/185436.124:ERROR:device_event_log_impl.cc(192)] [18:54:36.123] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
